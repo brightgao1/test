@@ -17,6 +17,7 @@ entry   <//> 《
 	lol(); positiveInteger num stores 38924 plus 323822；
 	integer32 wow; unicodeString ustr stores unicodeLiteral</ soifje;iojf />;
 	printNewLine 》》printUnicodeString ustr;
+	printNewLine;
 	
 》
 
