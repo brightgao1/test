@@ -19,6 +19,6 @@ entry   <//> 《
 	printNewLine 》》printUnicodeString ustr;
 	printNewLine;
 	constant realNumber pi = 3.1415;
-	
+	printUnicodeString pi;
 》
 
