@@ -1,2 +1,2 @@
 To https://github.com/brightgao1/test.git
-   82fa297..571de04  master -> master
+   571de04..d20eac5  master -> master
