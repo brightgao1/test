@@ -14,7 +14,7 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\test
 
 entry   <//> 《 
 	printUnicodeString unicodeLiteral</ pls work />;
-	lol(); int i = 0;
+	lol(); int i = 0; 桥：：
 》
 
 
